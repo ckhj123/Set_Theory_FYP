@@ -1,30 +1,30 @@
-> ⚠️ **WORK IN PROGRESS / DRAFT** 
+>  **WORK IN PROGRESS / DRAFT** 
 > This repository is actively updated with research notes, seminar materials, and draft manuscripts for my Final Year Project.
 
 # Axiomatic Set Theory & The Provability of Diophantine Equations
 
 This repository contains the research paper draft, formal proofs, and seminar presentation materials for my Final Year Project (FYP) in the Department of Mathematics at The Chinese University of Hong Kong (CUHK).
 
-## 👤 Author & Project Context
+##  Author & Project Context
 - **Author:** Chan Kwan Ho, Jason
 - **Role:** Sole Undergraduate Researcher
 - **Department:** Department of Mathematics, The Chinese University of Hong Kong (CUHK)
 - **Academic Context:** Final Year Project (FYP 2026–2027)
 
-## 📄 Research Manuscripts & Documentation
-- [📄 Read Research Paper Draft 1 (PDF)](set_theory_draft_1.pdf) *(Active Draft)*
-- [📢 View Seminar Slides (PDF)](slides.pdf) *(To be uploaded for upcoming seminar presentation)*
+##  Research Manuscripts & Documentation
+- [ Read Research Paper Draft 1 (PDF)](set_theory_draft_1.pdf) *(Active Draft)*
+- [ View Seminar Slides (PDF)](slides.pdf) *(To be uploaded for upcoming seminar presentation)*
 
-## 📐 Key Research Scope & Theoretical Highlights
+##  Key Research Scope & Theoretical Highlights
 - **First-Order Logic & ZFC Set Theory:** Investigating set-theoretic foundations, model-theoretic structures, and semantic entailment to evaluate formal provability limits.
 - **Diophantine Undecidability:** Analyzing the connections between Hilbert's 10th Problem (Matiyasevich–Robinson–Davis–Putnam theorem) and set-theoretic incompleteness.
 - **Solvability Boundaries:** Formulating proofs connecting number-theoretic structures and axiomatic logic to establish limits on algorithmic decidability.
 
-## 🎤 Scheduled Seminar Presentation
+##  Scheduled Seminar Presentation
 - **Title:** *"Set Theory and the Connection to Number Theory via the Provability of Diophantine Equations"*
 - **Audience:** Department of Mathematics academic faculty, researchers, and undergraduate peers.
 
-## 📚 Key References
+##  Key References
 - [1] Henry Gordon Rice. “Classes of recursively enumerable sets and their decision problems”. In: Trans-
 - actions of the American Mathematical Society 74.2 (1953), pp. 358–366.
 - [2] Michael Sipser. Introduction to the Theory of Computation. 3rd. Boston, MA: Cengage Learning, 2012.
