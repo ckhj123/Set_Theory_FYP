@@ -43,5 +43,5 @@ Accessed: 2026-09-29. Feb. 2008.
 2026.
 - [9] James Murphy. Cardinal and Ordinal Numbers. VIGRE REU Research Paper. University of Chicago,
 2009.
-[10] Andraws Zsak. “Lecture Note- Logic and Set Theory”. Lecture Note- Logic and Set Theory, Department
+-[10] Andraws Zsak. “Lecture Note- Logic and Set Theory”. Lecture Note- Logic and Set Theory, Department
 of Pure Mathematics and Mathematical Statistics, University of Cambridge.
