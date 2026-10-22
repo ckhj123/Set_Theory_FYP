@@ -12,7 +12,7 @@ This repository contains the research paper draft, formal proofs, and seminar pr
 - **Academic Context:** Final Year Project (FYP 2026–2027)
 
 ##  Research Manuscripts & Documentation
-- [ Read Research Paper Draft 2 (PDF)](Set_Theory_draft_2.pdf) *(Active Draft)*
+- [ Read Research Paper Draft 6 (PDF)](Set_Theory_(6).pdf) *(Active Draft)*
 - [ View Seminar Slides (PDF)](slides.pdf) *(To be uploaded for upcoming seminar presentation)*
 
 ##  Key Research Scope & Theoretical Highlights
